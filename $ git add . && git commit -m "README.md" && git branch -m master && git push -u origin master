@@ -1,0 +1,17 @@
+_*_ Running: `git add . && git commit -m "README.md" && git branch -m master && git push -u origin master` _*_
+
+
+[master 172ce6a] README.md
+ 1 file changed, 2 insertions(+)
+ create mode 100644 README.md
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 353 bytes | 353.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/ProbeOpt/trying_clojure.git
+   5069895..172ce6a  master -> master
+branch 'master' set up to track 'origin/master'.
+
+Process completed with exit code: 0
